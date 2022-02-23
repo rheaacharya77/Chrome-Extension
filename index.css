@@ -11,14 +11,13 @@ width: 100%;
 padding: 10px;
 box-sizing: border-box;
 border: 1px solid #5f9341; 
-
+margin-bottom: 4px;
 }
 
-#input-btn {
-    margin-top: 4px;
+button {
     background: #5f9341;
     color: white;
-    border: none;
+    border: 1px solid #5f9341;
     padding: 10px 20px;
     font-weight: bold;
 
@@ -26,11 +25,7 @@ border: 1px solid #5f9341;
 
 #delete-btn{
     color: #5f9341;
-    font-weight: bold;
-    margin-top: 4px;
     background: white;
-    padding: 10px 20px;
-    border: none;
 
 }
 
